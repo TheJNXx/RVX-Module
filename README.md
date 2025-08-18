@@ -1,3 +1,5 @@
+Works in: Magisk (obviously) - APatch
+
 This module contains:
 
 - Universal architecture
