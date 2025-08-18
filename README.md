@@ -3,6 +3,8 @@ This module contains:
 - Universal architecture
 - Monet
 - Branding icon: revancify_red
-- Exclude Gmscore patch for more compatibility with Google services or for ROM's with real Microg
+- Exclude Gmscore patch for more compatibility with Google services or Microg
+
+Recommendation: If your ROM has Youtube by default in the system I recommend [this app](https://github.com/sunilpaulmathew/De-Bloater) to delete it, is the best way to delete it without generating a conflict with the module
 
 Thanks to [j-hc](https://github.com/j-hc/revanced-magisk-module) (don't forget to check their repository in case you want your own modules or apks)
