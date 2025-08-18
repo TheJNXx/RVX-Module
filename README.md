@@ -1,4 +1,4 @@
-**Works in:** Magisk (obviously) - APatch
+**Works in:** Magisk (obviously) - KernelSU (I guess, I haven't checked it yet) - APatch
 
 This module contains:
 
