@@ -2,7 +2,7 @@ This module contains:
 
 - Universal architecture
 - Branding icon: revancify_red
-- Exclude Gmscore patch for more compatibility with Google services or Microg
+- Exclude Gmscore patch for more compatibility with Google services or [microG](https://microg.org)
 - Monet (A12+)
 
 Recommendation: If your ROM has Youtube by default in the system I recommend [this app](https://github.com/sunilpaulmathew/De-Bloater) to delete it, is the best way to delete it without generating a conflict with the module
