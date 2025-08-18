@@ -1,7 +1,7 @@
 This module contains:
 
 - Universal architecture
-- Custom branding icon: revancify_red
+- Custom branding icon: [revancify_red](https://github.com/anddea/revanced-patches/wiki/Icons)
 - Exclude "GmsCore support" patch for compatibility with Google services or [microG](https://microg.org)
 - Monet (A12+)
 
