@@ -1,4 +1,4 @@
-Works in: Magisk (obviously) - APatch
+**Works in:** Magisk (obviously) - APatch
 
 This module contains:
 
