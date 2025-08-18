@@ -7,7 +7,7 @@ This module contains:
 - Exclude "GmsCore support" patch for compatibility with Google services or [microG](https://microg.org)
 - Monet (A12+)
 
-Recommendation: If your ROM has Youtube by default in the system I recommend [this app](https://github.com/sunilpaulmathew/De-Bloater) to delete it, is the best way to delete it without generating a conflict with the module
+Recommendation: If your ROM has Youtube in the system I recommend [this app](https://github.com/sunilpaulmathew/De-Bloater) to "delete it" is the best way to not generate conflict with the module
 
 Or use a clean ROM like LineageOS
 
