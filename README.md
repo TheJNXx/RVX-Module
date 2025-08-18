@@ -1,7 +1,7 @@
 This module contains:
 
 - Universal architecture
-- Branding icon: revancify_red
+- Custom branding icon: revancify_red
 - Exclude Gmscore patch for more compatibility with Google services or [microG](https://microg.org)
 - Monet (A12+)
 
