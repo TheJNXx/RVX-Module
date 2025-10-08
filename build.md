@@ -1,4 +1,4 @@
-YouTube: 19.47.53  
+YouTube: 20.05.46  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
